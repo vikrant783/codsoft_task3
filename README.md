@@ -12,4 +12,4 @@ Usage:
 
 Run the app and enter the desired password length
 
-Click "Generate Password" to get a strong and unique passwor
+Click "Generate Password" to get a strong and unique password
